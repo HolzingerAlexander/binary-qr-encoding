@@ -1,0 +1,19 @@
+{
+  "name": "binary-qr-encoding",
+  "version": "1.0.0",
+  "description": "Encodes binary data as a digit string for use with qr code generators.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HolzingerAlexander/binary-qr-encoding.git"
+  },
+  "author": "Alexander Holzinger <alexander.holzinger@datasys.at> (https://www.datasys.at)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HolzingerAlexander/binary-qr-encoding/issues"
+  },
+  "homepage": "https://github.com/HolzingerAlexander/binary-qr-encoding#readme"
+}
