@@ -1,6 +1,6 @@
 {
   "name": "binary-qr-encoding",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Encodes binary data as a digit string for use with qr code generators.",
   "main": "index.js",
   "scripts": {
