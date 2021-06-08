@@ -1,4 +1,3 @@
-
 function blockToNumber(block) {
     let numericalValue = block[0];
     for (let i = 1; i < block.length; i++) {
@@ -20,7 +19,7 @@ function numberToBlock(numeric) {
     return array;
 }
 
-exports. byteArrayToNumberString = function(array) {
+exports.byteArrayToNumberString = function(array) {
     let numberString = '';
     for (let i = 0; i < array.length; i += 4) {
         const block = array.slice(i, i + 4);
