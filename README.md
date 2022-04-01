@@ -1,3 +1,5 @@
+Update: There is no need for this library anymore. base45 enables more efficient encoding of binary data in QR-Codes and has widespread adoption. (See https://datatracker.ietf.org/doc/draft-faltstrom-base45/)
+
 # QR code encoding for binary data
 A small utility library for efficiently encoding binary data into QR codes.
 
